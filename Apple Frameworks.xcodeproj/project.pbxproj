@@ -12,6 +12,7 @@
 		579ABBCC2A3CE3E70045A488 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 579ABBCB2A3CE3E70045A488 /* Preview Assets.xcassets */; };
 		579ABBD32A3E07070045A488 /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579ABBD22A3E07070045A488 /* Framework.swift */; };
 		579ABBD52A3E0DF50045A488 /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579ABBD42A3E0DF50045A488 /* FrameworkGridView.swift */; };
+		579ABBDB2A438DD80045A488 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579ABBDA2A438DD80045A488 /* FrameworkDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		579ABBCB2A3CE3E70045A488 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		579ABBD22A3E07070045A488 /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 		579ABBD42A3E0DF50045A488 /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
+		579ABBDA2A438DD80045A488 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				579ABBC42A3CE3E40045A488 /* Apple_FrameworksApp.swift */,
 				579ABBD42A3E0DF50045A488 /* FrameworkGridView.swift */,
+				579ABBDA2A438DD80045A488 /* FrameworkDetailView.swift */,
 				579ABBD22A3E07070045A488 /* Framework.swift */,
 				579ABBC82A3CE3E70045A488 /* Assets.xcassets */,
 				579ABBCA2A3CE3E70045A488 /* Preview Content */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				579ABBDB2A438DD80045A488 /* FrameworkDetailView.swift in Sources */,
 				579ABBD52A3E0DF50045A488 /* FrameworkGridView.swift in Sources */,
 				579ABBD32A3E07070045A488 /* Framework.swift in Sources */,
 				579ABBC52A3CE3E40045A488 /* Apple_FrameworksApp.swift in Sources */,
